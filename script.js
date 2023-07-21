@@ -4,7 +4,6 @@ let container = document.getElementById("main")
 
 
 setTimeout(()=>{
-    container.style.backgroundColor = "darksalmon"
     n10.style.fontSize = "150px"
     n10.innerHTML = "10"
     setTimeout(()=>{
@@ -13,7 +12,6 @@ setTimeout(()=>{
 },1000)
 
 setTimeout(()=>{
-    container.style.backgroundColor = "darkseagreen"
     n10.style.fontSize = "150px"
     n10.innerHTML = "9"
     setTimeout(()=>{
@@ -22,7 +20,6 @@ setTimeout(()=>{
 },2000)
 
 setTimeout(()=>{
-    container.style.backgroundColor = "gold"
     n10.style.fontSize = "150px"
     n10.innerHTML = "8"
     setTimeout(()=>{
@@ -31,7 +28,6 @@ setTimeout(()=>{
 },3000)
 
 setTimeout(()=>{
-    container.style.backgroundColor = "gray"
     n10.style.fontSize = "150px"
     n10.innerHTML = "7"
     setTimeout(()=>{
@@ -40,7 +36,6 @@ setTimeout(()=>{
 },4000)
 
 setTimeout(()=>{
-    container.style.backgroundColor = "greenyellow"
     n10.style.fontSize = "150px"
     n10.innerHTML = "6"
     setTimeout(()=>{
@@ -49,7 +44,6 @@ setTimeout(()=>{
 },5000)
 
 setTimeout(()=>{
-    container.style.backgroundColor = "darkorchid"
     n10.style.fontSize = "150px"
     n10.innerHTML = "5"
     setTimeout(()=>{
@@ -58,7 +52,6 @@ setTimeout(()=>{
 },6000)
 
 setTimeout(()=>{
-    container.style.backgroundColor = "dodgerblue"
     n10.style.fontSize = "150px"
     n10.innerHTML = "4"
     setTimeout(()=>{
@@ -67,7 +60,6 @@ setTimeout(()=>{
 },7000)
 
 setTimeout(()=>{
-    container.style.backgroundColor = "darkslateblue"
     n10.style.fontSize = "150px"
     n10.innerHTML = "3"
     setTimeout(()=>{
@@ -76,7 +68,6 @@ setTimeout(()=>{
 },8000)
 
 setTimeout(()=>{
-    container.style.backgroundColor = "darkgoldenrod"
     n10.style.fontSize = "150px"
     n10.innerHTML = "2"
     setTimeout(()=>{
@@ -85,7 +76,6 @@ setTimeout(()=>{
 },9000)
 
 setTimeout(()=>{
-    container.style.backgroundColor = "darkgray"
     n10.style.fontSize = "150px"
     n10.innerHTML = "1"
     setTimeout(()=>{

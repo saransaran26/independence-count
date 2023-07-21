@@ -84,7 +84,7 @@ setTimeout(()=>{
 },10000)
 setTimeout(()=>{
     n10.style.color = "red"
-    container.style.backgroundColor = "aqua"
+    container.style.background = "linear-gradient(orange,white,green)"
     n10.style.fontSize = "50px"
     n10.innerHTML = "HAPPY INDEPENDENCE DAY"
 },11000)
